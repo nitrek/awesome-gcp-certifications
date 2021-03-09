@@ -1,4 +1,4 @@
-# Professional Cloud DevOps Enginer
+# Professional Cloud DevOps Engineer
 
 | | | |
 | :---:         |     :---      |          :--- |
@@ -39,6 +39,8 @@
 | | [Site Reliability Engineering](https://landing.google.com/sre/sre-book/toc/index.html) | Edited by Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy |
 | | [Site Reliability Workbook](https://landing.google.com/sre/workbook/toc/) | Edited by Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara and Stephen Thorne |
 | | [Building Secure and Reliable Systems - Preview Version](https://landing.google.com/sre/resources/foundationsandprinciples/srs-book/) | Written by Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield |
+| | [SLO Adoption and Usage in SRE ](https://static.googleusercontent.com/media/landing.google.com/en//sre/static/pdf/SloAdoptionAndUsageInSre.pdf) | Julie McCoy with Nicole Forsgren |
+| | [Continuous Delivery with Spinnaker](https://spinnaker.io/concepts/ebook/) | multiple authors |
 
 ### Videos / Sessions
 | Published | Title/Link | Event | Instructors |
@@ -49,8 +51,12 @@
 ### Online Trainings
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
+| Coursera | [Developing a Google SRE Culture](https://www.coursera.org/learn/developing-a-google-sre-culture) | Google |
 | Coursera | [Site Reliability Engineering: Measuring and Managing Reliability](https://www.coursera.org/learn/site-reliability-engineering-slos/home/info) | Google |
+| Coursera | [Logging, Monitoring and Observability in Google Cloud](https://www.coursera.org/learn/logging-monitoring-observability-google-cloud) | Google |
 | Coursera | [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine/home/info) | Google |
+| Coursera | [SRE and DevOps Engineer with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/sre-devops-engineer-google-cloud) | Google |
+| Coursera | [Reliable Google Cloud Infrastructure: Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process) | Google |
 | Pluralsight | [Managing Cloud Resources Using Google Stackdriver](https://app.pluralsight.com/library/courses/google-stackdriver-managing-cloud-resources/table-of-contents) | Janani Ravi |
 | Pluralsight | [Managing Logs, Errors and Application Performance Using Google Stackdriver](https://app.pluralsight.com/library/courses/google-stackdriver-managing-logs-errors-application-performance/table-of-contents) | Vitthal Srinivasan |
 
@@ -58,3 +64,10 @@
 |  Title/Link  |
 | :---:         |
 | [DevOps Essentials](https://google.qwiklabs.com/quests/96) | 
+| [Implement DevOps in Google Cloud](https://www.qwiklabs.com/quests/141) | 
+| [Deployment Manager](https://www.qwiklabs.com/quests/30) | 
+| [Cloud Logging](https://www.qwiklabs.com/quests/81) | 
+| [Google Cloud's Operations Suite on GKE](https://www.qwiklabs.com/quests/133) | 
+| [Google Cloud's Operations Suite](https://www.qwiklabs.com/quests/35) | 
+| [Monitor and Log with Google Cloud Operations Suite](https://www.qwiklabs.com/quests/143) | 
+| [Network Performance and Optimization](https://www.qwiklabs.com/quests/46) | 

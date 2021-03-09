@@ -15,8 +15,12 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2021/02 | [How I prepared for the GCP ACE Exam](https://binx.io/blog/2021/02/05/how-i-prepared-for-the-google-cloud-associate-cloud-engineer-exam/) | Luca Cavallin |
+| 2020/09 | [How I prepared for GCP ACE Exam](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-certified-associate-cloud-engineer-exam) | Rakesh Vardan |
+| 2020/07 | [From ALC to ACE](https://medium.com/@MercyMarkus/from-alc-to-google-certified-associate-cloud-engineer-b7e5707f9bf0) | Mercy Markus |
 | 2020/03 | [How I Passed the GCP ACE](https://medium.com/@charles_j/how-i-passed-the-google-cloud-associate-engineer-certification-63a0fd932057) | Charles J |
 | 2019/12 | [How to plan and clear Google Cloud Associate Cloud Enginner Certificate](http://www.legendshub.com/blog/2019/12/24/how-to-plan-and-clear-google-cloud-associate-certificate-legendshub-blog/) | amrit_3327 |
+| 2019/11 | [How to Ace the Certification](https://telegraphhillsoftware.com/google-cloud-certification-ace/) | Blake Rogers |
 | 2019/05 | [Notes from my Associate Cloud Engineer — Section 2](https://medium.com/@fahed.dorgaa/notes-from-my-google-cloud-associate-cloud-engineer-section-2-5469797b1079) | Fahed Dorgaa |
 | 2019/04 | [Notes from my Associate Cloud Engineer — Section 1](https://medium.com/@fahed.dorgaa/i-have-passed-the-associate-cloud-engineer-exam-373076d07288) | Fahed Dorgaa |
 | 2019/03 | [Google Cloud Certification : Associate Cloud Engineer](https://medium.com/devopslinks/google-cloud-certification-associate-cloud-engineer-dc25765a23e2) | Raj |
@@ -43,17 +47,27 @@
 ### Online Trainings
 | Site | Title/Link | Instructor |
 | :---:         |     :---      |          :--- |
-| Coursera | [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) | |
 | Coursera | [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) | |
+| Coursera | [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) | |
 | Coursera | [Architecting with Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-architecture) | |
+| Coursera | [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation) | |
+| Coursera | [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) | |
+| Coursera | [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation) | |
+| Coursera | [Introduction to Cloud Identity](https://www.coursera.org/learn/cloud-identity) | |
 | Udemy | [Google Cloud Platform Associate Cloud Engineer Bootcamp](https://www.udemy.com/google-cloud-platform-associate-cloud-engineer-bootcamp/) | |
 | Linux Academy | [Google Cloud Certified Associate Cloud Engineer](https://linuxacademy.com/google-cloud-platform/training/course/name/google-cloud-certified-associate-cloud-engineer) | |
-| Coursera | [Introduction to Cloud Identity](https://www.coursera.org/learn/cloud-identity) | |
 | Udemy | [Google Cloud Associate Cloud Engineer](https://www.udemy.com/google-certified-associate-cloud-engineer/?couponCode=GCPFREELY) | |
 | acloud.guru | [Google Certified Associate Cloud Engineer 2019](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer) | Mattias Andersson |
+| training.antonit.com | [Google Cloud Associate Cloud Engineer](https://training.antonit.com/p/google-cloud-associate-cloud-engineer) | Antoni Tzavelas |
 
 ### Qwiklabs Links
 |  Title/Link  |
 | :---:         |
 | [GCP Essentials](https://google.qwiklabs.com/quests/23) | 
 | [Cloud Engineering](https://www.qwiklabs.com/quests/66) | 
+| [Ensure Access & Identity in Google Cloud](https://www.qwiklabs.com/quests/150) | 
+| [Set up and Configure a Cloud Environment in Google Cloud](https://www.qwiklabs.com/quests/119) | 
+| [Baseline: Infrastructure](https://www.qwiklabs.com/quests/33) | 
+| [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.qwiklabs.com/quests/118) | 
+| [Exploring APIs](https://www.qwiklabs.com/quests/54) | 
+| [Using the Cloud SDK Command Line](https://www.qwiklabs.com/quests/95) | 

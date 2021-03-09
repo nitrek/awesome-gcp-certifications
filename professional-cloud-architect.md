@@ -12,6 +12,9 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2021/01 | [How I prepared for Google Cloud Professional Architect exam?](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-professional-architect-exam) | Rakesh Vardan |
+| 2020/09 | [How to pass PCA – as a sales guy](https://www.linkedin.com/pulse/how-pass-google-cloud-professional-architect-sales-guy-rolf-siegel/) | Rolf Siegel |
+| 2020/03 | [Build on Your Experience to Earn Cloud Certifications](https://blog.doit-intl.com/bring-your-experience-to-the-cloud-certification-891278df5b5) | Joshua Fox |
 | 2020/02 | [PCA Prep Sheet](https://www.linkedin.com/pulse/google-cloud-professional-architect-prep-sheet-ammett-williams/) | Ammett Williams |
 | 2019/07 | [How to pass the Cloud Architect and Data Engineer GCP certifications](https://medium.com/ci-t/how-to-pass-both-the-cloud-architect-and-data-engineer-gcp-certifications-bb6a0812a1b1) | Ivam Luz |
 | 2019/03 | [Professional Cloud Architect Certification](https://medium.com/google-cloud/professional-cloud-architect-certification-6a6dfa5c6ff5) | Mete Atamel |
@@ -34,6 +37,8 @@
 ### Books
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2019/12 | [Professional Cloud Architect - Google Cloud Certification Guide](https://learning.oreilly.com/library/view/professional-cloud-architect/9781838555276/) | Konrad Clapa, Brian Gerrard |
+| 2019/11 | [Official Google Cloud Certified Professional Cloud Architect Study Guide](https://www.wiley.com/en-in/Official+Google+Cloud+Certified+Professional+Cloud+Architect+Study+Guide-p-9781119602446) | Dan Sullivan |
 | | [Google Cloud Platform for Architects](https://www.amazon.com/Google-Cloud-Platform-Architects-solutions/dp/1788834305/) | |
 | | [Google Cloud Platform Cookbook](https://www.amazon.com/Google-Cloud-Platform-Cookbook-applications/dp/1788291999/) | |
 | | [Google Cloud Platform in Action](https://www.amazon.com/Google-Cloud-Platform-Action-Geewax/dp/1617293520/) | |
@@ -53,6 +58,9 @@
 | Qwiklabs | [GCP Essentials](https://google.qwiklabs.com/quests/23) | |
 | Qwiklabs | [Challenge: GCP Architecture](https://google.qwiklabs.com/quests/47) | |
 | Coursera | [Preparing for the Google Cloud Professional Cloud Architect Exam](https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam) | |
+| Coursera | [Cloud Infrastructure Design and Process](https://www.coursera.org/learn/cloud-infrastructure-design-process) | |
+| Coursera | [Cloud Architecture with Google Cloud Professional Certificate](https://www.coursera.org/professional-certificates/gcp-cloud-architect) | |
+| Coursera | [Architecting with Google Compute Engine Specialization](https://www.coursera.org/specializations/gcp-architecture) | |
 | Linux Academy | [Google Certified Professional Cloud Architect](https://linuxacademy.com/linux/training/course/name/google-cloud-platform-architect-essentials) | |
 | acloud.guru | [Google Certified Professional Cloud Architect 2019](https://acloud.guru/learn/gcp-certified-professional-cloud-architect) | Mattias Andersson |
 | pluralsight | [Architecting with Google Cloud Platform: Infrastructure](https://www.pluralsight.com/paths/architecting-with-google-cloud-platform-infrastructure) | Google Cloud |

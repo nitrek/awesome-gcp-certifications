@@ -10,6 +10,8 @@
 ### Posts
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
+| 2020/09 | [GCP Professional Data Engineer Guide](https://metanube.org/2020/09/10/gcp-professional-data-engineer-guide-september-2020/) | A Estevez |
+| 2020/07 | [preparation, tips, and my journey from failing to passing experience](https://medium.com/@kshitijmb/gcp-data-engineer-exam-preparation-important-tips-and-my-emotional-journey-from-failing-to-132d91dc75f8) | Kshitij Bhadage |
 | 2020/05 | [Data Engineering on GCP Specialisation](https://towardsdatascience.com/data-engineering-on-gcp-specialisation-a-comprehensive-guide-for-data-professionals-4bb8bae8a1c7) | Alex Papageorgiou |
 | 2020/04 | [How to Prepare for GCP PDE Exam](https://medium.com/@hardikr68/how-to-prepare-for-and-clear-the-gcp-professional-data-engineer-exam-7e7ff518cf4a) | Hardik Rathod |
 | 2020/02 | [Topics in the GCP PDE Exam](https://developer.rackspace.com/blog/topics-in-the-google-cloud-professional-data-engineer-certification-exam/) | Sabeehah Ahmed |
@@ -26,6 +28,7 @@
 | 2019/04 | [Certified Professional Data Engineer - 2019 Updated exam](https://deploy.live/blog/google-cloud-certified-professional-data-engineer/) | Dmitri Lerko |
 | 2019/01 | [Notes from my Google Cloud Professional Data Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0) | Sathish VJ |
 | 2019/01 | [GCP Certified Data Engineer in 3 Weeks](https://medium.com/@avinash.gupta/gcp-certified-data-engineer-in-3-weeks-345ecfa667c3) | Avinash Gupta |
+| 2019/01 | [Cheat sheet](https://www.slideshare.net/GuangXu5/gcp-data-engineer-cheatsheet) | Guang Xu |
 | 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma |
 | 2018/11 | [Preparing for the Google Cloud](https://tzamtzis.gr/2018/digital-analytics/becoming-gcp-data-engineer/) | Panagiotis |
 | 2018/10 | [How to pass your Google Cloud Platform Professional Data Engineer exam](https://www.slideshare.net/vinoaj/measure-camp-how-to-pass-your-gcp-professional-data-engineer-exam-20181020) | vinoaj |
@@ -41,7 +44,7 @@
 ### Books
 | Published | Title/Link | Author |
 | :---:         |     :---      |          :--- |
-| | [Book Sample - PDE Study Guide](https://media-exp1.licdn.com/dms/document/C561FAQHfTg833-JRfg/feedshare-document-pdf-analyzed/0?e=1584889200&v=beta&t=9FFVRN1STxJEZvXXwSxkFj_UUDdgHFifnap6wruJHF0) | Dan Sullivan |
+| 2020/05 | [Official PDE Study Guide](https://www.wiley.com/en-in/Official+Google+Cloud+Certified+Professional+Data+Engineer+Study+Guide-p-9781119618454) | Dan Sullivan |
 | | [Data Science on the Google Cloud Platform](https://www.google.com/search?q=Data%20Science%20on%20the%20Google%20Cloud%20Platform) | Valliappa Lakshmanan |
 | | [Hands-On Machine Learning with Scikit-Learn and TensorFlow](https://www.google.com/search?q=Hands-On%20Machine%20Learning%20with%20Scikit-Learn%20and%20TensorFlow) | Aurélien Géron |
 | 2019/10 | [Google BigQuery: The Definitive Guide](https://www.google.com/search?q=bigquery+the+definitive+guide+Book+by+Jordan+Tigani+and+Valliappa+Lakshmanan) | Jordan Tigani & Valliappa Lakshmanan |
@@ -74,9 +77,23 @@
 
 ### Qwiklabs Links
 |  Title/Link  |
-| :---:         |
+| :---         |
 | [Baseline: Data, ML, AI](https://google.qwiklabs.com/quests/34) | 
 | [Data Engineering](https://google.qwiklabs.com/quests/25) | 
+| [Data Science on Google Cloud](https://google.qwiklabs.com/quests/43) | 
+| [BigQuery Basics for Data Analysts](https://google.qwiklabs.com/quests/69) | 
+| [Engineer Data in Google Cloud](https://google.qwiklabs.com/quests/132) | 
+| [Scientific Data Processing](https://google.qwiklabs.com/quests/28) | 
+| [Build and Optimize Data Warehouses with BigQuery](https://google.qwiklabs.com/quests/147) | 
+| [BigQuery for Data Warehousing](https://google.qwiklabs.com/quests/68) | 
+| [Building Advanced Codeless Pipelines on Cloud Data Fusion](https://google.qwiklabs.com/quests/131) | 
+| [Insights from Data with BigQuery](https://google.qwiklabs.com/quests/123) | 
+| [BigQuery for Data Analysis](https://google.qwiklabs.com/quests/55) | 
+| [Data Catalog Fundamentals](https://google.qwiklabs.com/quests/134) | 
+| [Building Codeless Pipelines on Cloud Data Fusion](https://google.qwiklabs.com/quests/130) | 
+| [BigQuery for Marketing Analysts](https://google.qwiklabs.com/quests/70) | 
+| [Cloud SQL](https://google.qwiklabs.com/quests/52) | 
+| [BigQuery for Machine Learning](https://google.qwiklabs.com/quests/71) | 
 
 ### Deep Dive Links
 | Published | Topic | Title/Link | Instructor |
